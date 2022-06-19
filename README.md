@@ -76,3 +76,9 @@ Migrate Data to Database
 Predicting Used Car Price
 
 Implementing Linear Regression
+
+Deployment in Heroku
+
+https://usedcarkib.herokuapp.com/
+
+
